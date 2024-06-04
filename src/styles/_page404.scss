@@ -1,0 +1,14 @@
+.page404 {
+  color: grey;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  a {
+    color: rgb(203, 137, 137);
+    font-size: 2rem;
+
+    &:hover {
+      color: indianred;
+      text-decoration: underline;
+    }
+  }
+}

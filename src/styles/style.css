@@ -124,4 +124,18 @@ nav ul li a:hover {
 }
 .pictures .picture .imageContainer img:hover {
   transform: scale(1.25);
+}
+
+.page404 {
+  color: grey;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+}
+.page404 a {
+  color: rgb(203, 137, 137);
+  font-size: 2rem;
+}
+.page404 a:hover {
+  color: indianred;
+  text-decoration: underline;
 }/*# sourceMappingURL=style.css.map */
