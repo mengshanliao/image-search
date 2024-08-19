@@ -4,7 +4,7 @@ import Search from "../components/Search";
 import Picture from "../components/Picture";
 
 const Homepage = () => {
-  let [input, setInput] = useState("");
+  let [input, setInput] = useState(""); //search狀態
   let [data, setData] = useState(null);
   let [page, setPage] = useState(1);
   let [currentSearch, setCurrentSearch] = useState("");
